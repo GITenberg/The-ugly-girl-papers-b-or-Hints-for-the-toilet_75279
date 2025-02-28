@@ -1,5 +1,8 @@
 _repo: The-ugly-girl-papers-b-or-Hints-for-the-toilet_75279
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75279-h/images/cover.jpg
 creator:
   author:
     agent_name: Power, S. D. (Susan Dunning)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '34868'
     url: http://www.gutenberg.org/2009/agents/34868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75279#The-ugly-girl-papers-b-or-Hints-for-the-toilet
 gutenberg_issued: '2025-02-02'
 gutenberg_type: Text
 identifiers:
